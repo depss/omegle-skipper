@@ -9,8 +9,8 @@ Windows computer
 Python 3.6 or higher
 
 Modules:
-Pyautogui
-time
-os
-colorama
+Pyautogui,
+time,
+os,
+colorama,
 ctypes
