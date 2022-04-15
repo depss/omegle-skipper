@@ -6,7 +6,7 @@ import pyautogui
 from colorama import init, Fore
 
 init()
-ctypes.windll.kernel32.SetConsoleTitleW('Omegle Skipper By depss')
+ctypes.windll.kernel32.SetConsoleTitleW('Omegle Skipper By depss#3615')
 
 tag = (Fore.YELLOW + ''' ██████╗ ███╗   ███╗███████╗ ██████╗ ██╗     ███████╗    ███████╗██╗  ██╗██╗██████╗ ██████╗ ███████╗██████╗ 
 ██╔═══██╗████╗ ████║██╔════╝██╔════╝ ██║     ██╔════╝    ██╔════╝██║ ██╔╝██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
